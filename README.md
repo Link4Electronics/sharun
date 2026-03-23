@@ -227,7 +227,6 @@ This can be useful, for example, to use [pathmap](https://github.com/VHSgunzo/pa
 * [PrusaSlicer.AppImage](https://github.com/probonopd/PrusaSlicer.AppImage)
 * [GOverlay](https://github.com/benjamimgois/goverlay)
 * [Ghostty-AppImage](https://github.com/psadi/ghostty-appimage)
-* [GPU-T](https://github.com/lseurttyuu/GPU-T)
 * [Interstellar](https://github.com/jwr1/interstellar)
 * [LibreSprite](https://github.com/LibreSprite/LibreSprite)
 * [QDiskInfo](https://github.com/edisionnano/QDiskInfo)
@@ -237,6 +236,7 @@ This can be useful, for example, to use [pathmap](https://github.com/VHSgunzo/pa
 * [PPSSPP](https://github.com/hrydgard/ppsspp)
 * [Converseen](https://github.com/Faster3ck/Converseen)
 * [RSS Guard](https://github.com/martinrotter/rssguard)
+* [GPU-T](https://github.com/lseurttyuu/GPU-T)
 
 ## References
 * [userland-execve](https://crates.io/crates/userland-execve)
